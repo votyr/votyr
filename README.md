@@ -36,6 +36,3 @@
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/tiya-r-527509331/
