@@ -54,6 +54,14 @@
 
 ---
 
+## 🧠 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/trathor?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
 ## 📊 GitHub Insights
 
 <p align="center">
