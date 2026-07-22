@@ -87,11 +87,7 @@
 ## 🧪 Currently Exploring
 
 - 🤖 Machine Learning
-- 🧠 Computer Networking
-- 🌐 Interactive web experiences 👀 
+- 🧠 ANNs and CNNs
+- 🌐 Full-scale production + deployment 👀 
 
 ---
-
-<p align="center">
-  ⚡ <i>“Still loading… but getting better every commit.”</i>
-</p>
