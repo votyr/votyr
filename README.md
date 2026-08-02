@@ -47,7 +47,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1&color=FFFFFF&center=true&vCenter=true&width=250&height=40&lines=%E2%9A%A1+Tech+Stack" alt="Tech Stack"/>
+## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=250&height=40&lines=%E2%9A%A1+Tech+Stack" alt="Tech Stack"/>
 
 <div align="center">
 
@@ -57,8 +57,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-
-<br/><br/>
 
 **Web**
 <br/>
@@ -70,16 +68,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
 
-<br/><br/>
-
 **Data / ML**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42"/>
 <img src="https://www.r-project.org/logo/Rlogo.png" width="42"/>
-
-<br/><br/>
 
 **Tools**
 <br/>
@@ -99,14 +93,15 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%93%8A+GitHub+Insights" alt="GitHub Insights"/>
+## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%93%8A+GitHub+Insights" alt="GitHub Insights"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=votyr&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votyr&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA" height="170"/>
+<img height="180"
+src="https://github-readme-stats.shion.dev/api?username=votyr&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&ring_color=ffffff&include_all_commits=true"/>
 
-<br/><br/>
+<img height="180"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=votyr&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com?user=votyr&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=000000&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
@@ -114,7 +109,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1&color=FFFFFF&center=true&vCenter=true&width=350&height=40&lines=%F0%9F%94%A5+Contribution+Graph" alt="Contribution Graph"/>
+## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=350&height=40&lines=%F0%9F%94%A5+Contribution+Graph" alt="Contribution Graph"/>
 
 <div align="center">
 
@@ -124,7 +119,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%90%8D+Contribution+Snake" alt="Contribution Snake"/>
+## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%90%8D+Contribution+Snake" alt="Contribution Snake"/>
 
 <div align="center">
 
@@ -134,7 +129,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%A7%A9+Featured+Projects" alt="Featured Projects"/>
+## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%A7%A9+Featured+Projects" alt="Featured Projects"/>
 
 <div align="center">
 <table width="90%">
@@ -167,7 +162,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1&color=FFFFFF&center=true&vCenter=true&width=350&height=40&lines=%F0%9F%A7%AA+Currently+Exploring" alt="Currently Exploring"/>
+## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=350&height=40&lines=%F0%9F%A7%AA+Currently+Exploring" alt="Currently Exploring"/>
 
 <div align="center">
 
@@ -179,7 +174,7 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%8C%90+Connect" alt="Connect"/>
+## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=1800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%8C%90+Connect" alt="Connect"/>
 
 <div align="center">
 
