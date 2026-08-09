@@ -166,23 +166,17 @@
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=2400&pause=2200&color=FFFFFF&center=true&vCenter=true&width=320&height=45&lines=%E2%98%99+The+Ledger" alt="The Ledger"/>
+## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=2400&pause=2200&color=E8E2D6&center=true&vCenter=true&width=350&height=45&lines=%E2%98%99+The+Ledger" alt="The Ledger"/>
 
 <div align="center">
 
 *An account of the work committed to these digital pages.*
 
-<img height="180"
-src="https://github-readme-stats.shion.dev/api?username=votyr&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&ring_color=ffffff&include_all_commits=true"/>
-
-<img height="180"
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=votyr&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com?user=votyr&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=000000&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="GitHub Streak"/>
+![](https://github-readme-stats.shion.dev/api?username=votyr&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=votyr&theme=ayu-mirage&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=votyr&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
-<br/>
 
 ---
 
