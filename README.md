@@ -56,18 +56,7 @@
 
 <div align="center">
 
-<br>
-
-> *"The purpose of knowledge
-> is not merely to possess it,
-> but to make something
-> worthy from it."*
-
-<br>
-
-— *A note from the archives*
-
-<br>
+<img width="480" height="270" alt="e347ac7e596bb2bf20f549902c1cf5e6" src="https://github.com/user-attachments/assets/aed826f3-bef5-4092-b613-e4490453f8df" />
 
 ❧ ❧ ❧
 
@@ -79,10 +68,6 @@
 </table>
 
 <br/>
-
-*I am a Computer Science student fascinated by the meeting point of artificial intelligence, the web, and creative technology.*
-
-*I enjoy building software that is not merely functional, but **interactive, expressive, and worth exploring.***
 
 </div>
 
@@ -159,48 +144,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
 </p>
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=2400&pause=2200&color=E8E2D6&center=true&vCenter=true&width=350&height=45&lines=%E2%98%99+The+Ledger" alt="The Ledger"/>
-
-<div align="center">
-
-*An account of the work committed to these digital pages.*
-
-![](https://github-readme-stats.shion.dev/api?username=votyr&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=votyr&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=votyr&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=2400&pause=2200&color=FFFFFF&center=true&vCenter=true&width=360&height=45&lines=%E2%98%99+The+Chronicle" alt="The Chronicle"/>
-
-<div align="center">
-
-*Each square marks another day spent at the forge.*
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=votyr\&bg_color=000000\&color=FFFFFF\&line=FFFFFF\&point=FFFFFF\&area=true\&area_color=333333\&hide_border=false\&border_color=2a2a2a\&title_color=FFFFFF)](https://github.com/votyr)
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=2400&pause=2200&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=%E2%98%99+The+Serpent%27s+Path" alt="The Serpent's Path"/>
-
-<div align="center">
-
-*An animated chronicle of the contributions left behind.*
-
-<img src="https://raw.githubusercontent.com/votyr/votyr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 
 </div>
 
@@ -330,8 +273,6 @@ This full-stack application explores the foundations of a practical productivity
 
 *Subjects presently occupying the scholar's desk.*
 
-<br/><br/>
-
 ![Machine Learning](https://img.shields.io/badge/%E2%9C%A6_Machine_Learning-000000?style=for-the-badge\&logo=scikitlearn\&logoColor=FFFFFF)
 
 ![ANNs & CNNs](https://img.shields.io/badge/%E2%9C%A6_ANNs_%26_CNNs-000000?style=for-the-badge\&logo=tensorflow\&logoColor=FFFFFF)
@@ -339,6 +280,7 @@ This full-stack application explores the foundations of a practical productivity
 ![Production & Deployment](https://img.shields.io/badge/%E2%9C%A6_Production_%26_Deployment-000000?style=for-the-badge\&logo=docker\&logoColor=FFFFFF)
 
 *The study continues; the next chapter remains unwritten.*
+<br/>
 
 </div>
 
@@ -354,13 +296,11 @@ This full-stack application explores the foundations of a practical productivity
 <img src="https://img.shields.io/badge/%E2%9C%A6_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
- 
 
 <a href="#">
 <img src="https://img.shields.io/badge/%E2%9C%A6_Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FFFFFF"/>
 </a>
 
- 
 
 <a href="#">
 <img src="https://img.shields.io/badge/%E2%9C%A6_Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
@@ -375,9 +315,6 @@ This full-stack application explores the foundations of a practical productivity
 ❧ ❧ ❧
 
 <br/>
-
-*If you are building something curious,
-perhaps our paths were meant to cross.*
 
 </div>
 
